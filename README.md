@@ -86,8 +86,8 @@ And then, in order to open the report generated run:
 $ allure open ../logs/reports                       
 ``` 
 You should see something like this:
-![report overview](https://drive.google.com/file/d/127mAcDB4f7fUOAdBKrkqSeBJV25zshEJ/view?usp=sharing)
+![report overview](images/overview.png)
 
-![suites view](https://drive.google.com/file/d/1rnRnKOIFxi59LPdV6S_7VCIiwtSfvpBK/view?usp=sharing)
+![suites view](images/suites.png)
 
-![graphs view](https://drive.google.com/file/d/1PXe02_KJRsPWptHfTUzQn0Erfjrljfb6/view?usp=sharing)
+![graphs view](images/graphs.png)
