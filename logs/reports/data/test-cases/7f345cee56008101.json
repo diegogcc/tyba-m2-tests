@@ -1,0 +1,108 @@
+{
+  "uid" : "7f345cee56008101",
+  "name" : "test_hover_over_tools_button",
+  "fullName" : "test_header#test_hover_over_tools_button",
+  "historyId" : "daa8bbb206e4453c16e5447e03bf31cc",
+  "time" : {
+    "start" : 1589151500297,
+    "stop" : 1589151504498,
+    "duration" : 4201
+  },
+  "description" : "Load the page and hover over the 'Herramientas' button,\n    the tools submenu should be displayed with the correct elements",
+  "descriptionHtml" : "<p>Load the page and hover over the 'Herramientas' button,\nthe tools submenu should be displayed with the correct elements</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151498229,
+      "stop" : 1589151500295,
+      "duration" : 2066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Load the page and hover over the 'Herramientas' button,\n    the tools submenu should be displayed with the correct elements",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "assert_tools_submenu_visibility",
+      "time" : {
+        "start" : 1589151503553,
+        "stop" : 1589151504498,
+        "duration" : 945
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151504499,
+      "stop" : 1589151504602,
+      "duration" : 103
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_header"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f345cee56008101.json",
+  "parameterValues" : [ ]
+}

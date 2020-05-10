@@ -1,0 +1,6 @@
+.DS_Store
+tyba/
+*.pyc
+**/__pychache__/**
+.vscode/
+.mypy_cache/

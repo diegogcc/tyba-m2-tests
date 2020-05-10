@@ -1,0 +1,82 @@
+{
+  "uid" : "3d1f0996603f49d8",
+  "name" : "test_enter_low_quantity_monthly_income_input",
+  "fullName" : "test_calculator#test_enter_low_quantity_monthly_income_input",
+  "historyId" : "0860f9d0770b5c4b5de47d4579e2fb7c",
+  "time" : {
+    "start" : 1589151389609,
+    "stop" : 1589151393605,
+    "duration" : 3996
+  },
+  "description" : "Load the page and verify the functionality of the monthly income input.\n    The entered quantity should be greater than 737717 ",
+  "descriptionHtml" : "<p>Load the page and verify the functionality of the monthly income input.\nThe entered quantity should be greater than 737717</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151387554,
+      "stop" : 1589151389608,
+      "duration" : 2054
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151393606,
+      "stop" : 1589151393706,
+      "duration" : 100
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d1f0996603f49d8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "2eabe42cbb49cfb",
+  "name" : "test_enter_high_quantity_loan_input",
+  "fullName" : "test_calculator#test_enter_high_quantity_loan_input",
+  "historyId" : "d833680d0f2877b5384036ec3ae536a7",
+  "time" : {
+    "start" : 1589151440417,
+    "stop" : 1589151444455,
+    "duration" : 4038
+  },
+  "description" : "Load the page and verify the functionality of the fee calculator input.\n    The entered quantity should have maximum 10 digits",
+  "descriptionHtml" : "<p>Load the page and verify the functionality of the fee calculator input.\nThe entered quantity should have maximum 10 digits</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151438214,
+      "stop" : 1589151440415,
+      "duration" : 2201
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151444456,
+      "stop" : 1589151444557,
+      "duration" : 101
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2eabe42cbb49cfb.json",
+  "parameterValues" : [ ]
+}

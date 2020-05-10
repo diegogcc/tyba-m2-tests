@@ -1,0 +1,82 @@
+{
+  "uid" : "6de9ffc85e2f069",
+  "name" : "test_calculator_elements_on_load",
+  "fullName" : "test_calculator#test_calculator_elements_on_load",
+  "historyId" : "2c5688f6f1c3be327f706466aa01a67e",
+  "time" : {
+    "start" : 1589151377409,
+    "stop" : 1589151381359,
+    "duration" : 3950
+  },
+  "description" : "Load the page and verify that the correct elements are displayed\n    on the Calculator section ",
+  "descriptionHtml" : "<p>Load the page and verify that the correct elements are displayed\non the Calculator section</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151375231,
+      "stop" : 1589151377406,
+      "duration" : 2175
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151381360,
+      "stop" : 1589151381458,
+      "duration" : 98
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6de9ffc85e2f069.json",
+  "parameterValues" : [ ]
+}

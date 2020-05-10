@@ -1,0 +1,108 @@
+{
+  "uid" : "bfc4ea989e288270",
+  "name" : "test_click_m2_logo",
+  "fullName" : "test_header#test_click_m2_logo",
+  "historyId" : "c06f669208535475bc3b349989d10f47",
+  "time" : {
+    "start" : 1589151476839,
+    "stop" : 1589151485793,
+    "duration" : 8954
+  },
+  "description" : "Load the page and click on the metrocuadrado (m2) logo,\n    the user should go to the Home Page",
+  "descriptionHtml" : "<p>Load the page and click on the metrocuadrado (m2) logo,\nthe user should go to the Home Page</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151474639,
+      "stop" : 1589151476838,
+      "duration" : 2199
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Load the page and click on the metrocuadrado (m2) logo,\n    the user should go to the Home Page",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "assert_m2_logo",
+      "time" : {
+        "start" : 1589151479166,
+        "stop" : 1589151485793,
+        "duration" : 6627
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151485794,
+      "stop" : 1589151485894,
+      "duration" : 100
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_header"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfc4ea989e288270.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "c157af3e57ee3acc",
+  "name" : "test_tooltip_visibility",
+  "fullName" : "test_calculator#test_tooltip_visibility",
+  "historyId" : "fa41ff85a1c7bcb88abb28530450e800",
+  "time" : {
+    "start" : 1589151401765,
+    "stop" : 1589151405503,
+    "duration" : 3738
+  },
+  "description" : "Load the page and verify the functionality of the help icon,\n    a tooltip should be displayed when hovered",
+  "descriptionHtml" : "<p>Load the page and verify the functionality of the help icon,\na tooltip should be displayed when hovered</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151399697,
+      "stop" : 1589151401763,
+      "duration" : 2066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151405504,
+      "stop" : 1589151405599,
+      "duration" : 95
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c157af3e57ee3acc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "a7051f3c2df4203a",
+  "name" : "test_fill_credit_form_valid_data_button_enabled",
+  "fullName" : "test_calculator#test_fill_credit_form_valid_data_button_enabled",
+  "historyId" : "b4a316ed9cf795a1c225ca83b3615532",
+  "time" : {
+    "start" : 1589151413761,
+    "stop" : 1589151417999,
+    "duration" : 4238
+  },
+  "description" : "Load the page and see the functionality of the credit form.\n    The button should now be enabled",
+  "descriptionHtml" : "<p>Load the page and see the functionality of the credit form.\nThe button should now be enabled</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151411599,
+      "stop" : 1589151413759,
+      "duration" : 2160
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151418000,
+      "stop" : 1589151418103,
+      "duration" : 103
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7051f3c2df4203a.json",
+  "parameterValues" : [ ]
+}

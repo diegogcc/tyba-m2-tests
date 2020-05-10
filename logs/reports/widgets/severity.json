@@ -1,0 +1,221 @@
+[ {
+  "uid" : "2eabe42cbb49cfb",
+  "name" : "test_enter_high_quantity_loan_input",
+  "time" : {
+    "start" : 1589151440417,
+    "stop" : 1589151444455,
+    "duration" : 4038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84fd71b635abf9b9",
+  "name" : "test_hover_over_news_button",
+  "time" : {
+    "start" : 1589151494144,
+    "stop" : 1589151498128,
+    "duration" : 3984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7051f3c2df4203a",
+  "name" : "test_fill_credit_form_valid_data_button_enabled",
+  "time" : {
+    "start" : 1589151413761,
+    "stop" : 1589151417999,
+    "duration" : 4238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "accb09a90ce89ad3",
+  "name" : "test_credit_duration_dropdown_select_last_option",
+  "time" : {
+    "start" : 1589151407680,
+    "stop" : 1589151411491,
+    "duration" : 3811
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb11e88fe43df95c",
+  "name" : "test_fill_fee_form_valid_data_button_enabled",
+  "time" : {
+    "start" : 1589151452790,
+    "stop" : 1589151457282,
+    "duration" : 4492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfc4ea989e288270",
+  "name" : "test_click_m2_logo",
+  "time" : {
+    "start" : 1589151476839,
+    "stop" : 1589151485793,
+    "duration" : 8954
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39514cd1ca5172b9",
+  "name" : "test_enter_high_quantity_monthly_income_input",
+  "time" : {
+    "start" : 1589151395758,
+    "stop" : 1589151399595,
+    "duration" : 3837
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4d5cc5f41093944",
+  "name" : "test_enter_text_into_loan_input",
+  "time" : {
+    "start" : 1589151426862,
+    "stop" : 1589151431885,
+    "duration" : 5023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de5ff371e4b78bd3",
+  "name" : "test_properties_section_on_load",
+  "time" : {
+    "start" : 1589151529142,
+    "stop" : 1589151533272,
+    "duration" : 4130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af826e9b4d737bcb",
+  "name" : "test_click_publish_property_button",
+  "time" : {
+    "start" : 1589151517812,
+    "stop" : 1589151526867,
+    "duration" : 9055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdb30c5bc926217",
+  "name" : "test_click_search_property_button",
+  "time" : {
+    "start" : 1589151488028,
+    "stop" : 1589151491889,
+    "duration" : 3861
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f345cee56008101",
+  "name" : "test_hover_over_tools_button",
+  "time" : {
+    "start" : 1589151500297,
+    "stop" : 1589151504498,
+    "duration" : 4201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9ae31c89732230b",
+  "name" : "test_fee_duration_dropdown_select_last_option",
+  "time" : {
+    "start" : 1589151446665,
+    "stop" : 1589151450510,
+    "duration" : 3845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "769742de20a63ce1",
+  "name" : "test_fee_button_generates_report",
+  "time" : {
+    "start" : 1589151459514,
+    "stop" : 1589151463994,
+    "duration" : 4480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54d07d5b06f50009",
+  "name" : "test_header_elements_on_load",
+  "time" : {
+    "start" : 1589151466274,
+    "stop" : 1589151474519,
+    "duration" : 8245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bf5ec69443cff99",
+  "name" : "test_credit_button_generates_report",
+  "time" : {
+    "start" : 1589151420215,
+    "stop" : 1589151424612,
+    "duration" : 4397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78b492d8aab59a5b",
+  "name" : "test_enter_low_quantity_loan_input",
+  "time" : {
+    "start" : 1589151434067,
+    "stop" : 1589151438108,
+    "duration" : 4041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d1f0996603f49d8",
+  "name" : "test_enter_low_quantity_monthly_income_input",
+  "time" : {
+    "start" : 1589151389609,
+    "stop" : 1589151393605,
+    "duration" : 3996
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6de9ffc85e2f069",
+  "name" : "test_calculator_elements_on_load",
+  "time" : {
+    "start" : 1589151377409,
+    "stop" : 1589151381359,
+    "duration" : 3950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d024ba120dfef48",
+  "name" : "test_enter_text_into_monthly_income_input",
+  "time" : {
+    "start" : 1589151383527,
+    "stop" : 1589151387452,
+    "duration" : 3925
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c157af3e57ee3acc",
+  "name" : "test_tooltip_visibility",
+  "time" : {
+    "start" : 1589151401765,
+    "stop" : 1589151405503,
+    "duration" : 3738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3f895cc491fb71c",
+  "name" : "test_login_button_user_not_logged",
+  "time" : {
+    "start" : 1589151506724,
+    "stop" : 1589151515583,
+    "duration" : 8859
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

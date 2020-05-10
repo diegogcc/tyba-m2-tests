@@ -1,0 +1,44 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 10 17:57:00 COT 2020","Sun May 10 17:57:04 COT 2020","4397","","test_calculator","","","","test_credit_button_generates_report","Load the page, fill the credit form and check that the results are generated"
+"passed","Sun May 10 17:58:26 COT 2020","Sun May 10 17:58:35 COT 2020","8859","","test_header","","","","test_login_button_user_not_logged","Load the page and click on the 'Ingresar' button when the user
+    is not logged in yet.
+    The user should be re-directed to the login form with the correct elements"
+"passed","Sun May 10 17:57:46 COT 2020","Sun May 10 17:57:54 COT 2020","8245","","test_header","","","","test_header_elements_on_load","Load the page and verify that the correct elements are displayed
+    on the navigation bar"
+"passed","Sun May 10 17:58:08 COT 2020","Sun May 10 17:58:11 COT 2020","3861","","test_header","","","","test_click_search_property_button","Load the page and click on the 'Bucar inmueble' button,
+    the property search form should be displayed with the correct elements"
+"passed","Sun May 10 17:57:39 COT 2020","Sun May 10 17:57:43 COT 2020","4480","","test_calculator","","","","test_fee_button_generates_report","Load the page, fill the fee form and check that the results are generated"
+"passed","Sun May 10 17:58:49 COT 2020","Sun May 10 17:58:53 COT 2020","4130","","test_properties","","","","test_properties_section_on_load","Load the page and see the state of the properties section.
+    It should have 4 sections with link by locations"
+"passed","Sun May 10 17:58:37 COT 2020","Sun May 10 17:58:46 COT 2020","9055","","test_header","","","","test_click_publish_property_button","Load the page and click on the 'Publicar inmueble' button.
+    The user should be re-directed to the publication page."
+"passed","Sun May 10 17:58:20 COT 2020","Sun May 10 17:58:24 COT 2020","4201","","test_header","","","","test_hover_over_tools_button","Load the page and hover over the 'Herramientas' button,
+    the tools submenu should be displayed with the correct elements"
+"passed","Sun May 10 17:57:32 COT 2020","Sun May 10 17:57:37 COT 2020","4492","","test_calculator","","","","test_fill_fee_form_valid_data_button_enabled","Load the page and see the functionality of the fee form.
+    The button should now be enabled"
+"passed","Sun May 10 17:56:41 COT 2020","Sun May 10 17:56:45 COT 2020","3738","","test_calculator","","","","test_tooltip_visibility","Load the page and verify the functionality of the help icon,
+    a tooltip should be displayed when hovered"
+"passed","Sun May 10 17:56:29 COT 2020","Sun May 10 17:56:33 COT 2020","3996","","test_calculator","","","","test_enter_low_quantity_monthly_income_input","Load the page and verify the functionality of the monthly income input.
+    The entered quantity should be greater than 737717 "
+"passed","Sun May 10 17:57:56 COT 2020","Sun May 10 17:58:05 COT 2020","8954","","test_header","","","","test_click_m2_logo","Load the page and click on the metrocuadrado (m2) logo,
+    the user should go to the Home Page"
+"passed","Sun May 10 17:57:14 COT 2020","Sun May 10 17:57:18 COT 2020","4041","","test_calculator","","","","test_enter_low_quantity_loan_input","Load the page and verify the functionality of the fee calculator input.
+    The entered quantity should be greater than 15000000 "
+"passed","Sun May 10 17:57:20 COT 2020","Sun May 10 17:57:24 COT 2020","4038","","test_calculator","","","","test_enter_high_quantity_loan_input","Load the page and verify the functionality of the fee calculator input.
+    The entered quantity should have maximum 10 digits"
+"passed","Sun May 10 17:57:06 COT 2020","Sun May 10 17:57:11 COT 2020","5023","","test_calculator","","","","test_enter_text_into_loan_input","Load the page and verify the functionlity of the fee calculator input.
+    It should only accept numeric values"
+"passed","Sun May 10 17:56:35 COT 2020","Sun May 10 17:56:39 COT 2020","3837","","test_calculator","","","","test_enter_high_quantity_monthly_income_input","Load the page and verify the functionality of the monthly income input.
+    The entered quantity should have maximum 9 digits"
+"passed","Sun May 10 17:56:23 COT 2020","Sun May 10 17:56:27 COT 2020","3925","","test_calculator","","","","test_enter_text_into_monthly_income_input","Load the page and verify the functionlity of the monthly income input.
+    It should only accept numeric values"
+"passed","Sun May 10 17:57:26 COT 2020","Sun May 10 17:57:30 COT 2020","3845","","test_calculator","","","","test_fee_duration_dropdown_select_last_option","Load the page and verify the funcionality of the duration dropdown
+    on the fee form. Last option should be 20 years"
+"passed","Sun May 10 17:56:47 COT 2020","Sun May 10 17:56:51 COT 2020","3811","","test_calculator","","","","test_credit_duration_dropdown_select_last_option","Load the page and verify the funcionality of the duration dropdown
+    on the credit form. Last option should be 20 years"
+"passed","Sun May 10 17:56:17 COT 2020","Sun May 10 17:56:21 COT 2020","3950","","test_calculator","","","","test_calculator_elements_on_load","Load the page and verify that the correct elements are displayed
+    on the Calculator section "
+"passed","Sun May 10 17:56:53 COT 2020","Sun May 10 17:56:57 COT 2020","4238","","test_calculator","","","","test_fill_credit_form_valid_data_button_enabled","Load the page and see the functionality of the credit form.
+    The button should now be enabled"
+"passed","Sun May 10 17:58:14 COT 2020","Sun May 10 17:58:18 COT 2020","3984","","test_header","","","","test_hover_over_news_button","Load the page and hover over the 'Noticias y Tendencias' button, 
+    the news and trends submenu should be displayed with the correct elements"

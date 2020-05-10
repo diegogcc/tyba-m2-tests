@@ -1,0 +1,108 @@
+{
+  "uid" : "cdb30c5bc926217",
+  "name" : "test_click_search_property_button",
+  "fullName" : "test_header#test_click_search_property_button",
+  "historyId" : "d3f244a88ea91204afa71a0b74b38191",
+  "time" : {
+    "start" : 1589151488028,
+    "stop" : 1589151491889,
+    "duration" : 3861
+  },
+  "description" : "Load the page and click on the 'Bucar inmueble' button,\n    the property search form should be displayed with the correct elements",
+  "descriptionHtml" : "<p>Load the page and click on the 'Bucar inmueble' button,\nthe property search form should be displayed with the correct elements</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151485899,
+      "stop" : 1589151488026,
+      "duration" : 2127
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Load the page and click on the 'Bucar inmueble' button,\n    the property search form should be displayed with the correct elements",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "assert_search_property_form_visibility",
+      "time" : {
+        "start" : 1589151491482,
+        "stop" : 1589151491889,
+        "duration" : 407
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151491890,
+      "stop" : 1589151491997,
+      "duration" : 107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_header"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdb30c5bc926217.json",
+  "parameterValues" : [ ]
+}

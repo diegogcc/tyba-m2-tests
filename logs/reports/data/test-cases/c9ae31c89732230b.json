@@ -1,0 +1,99 @@
+{
+  "uid" : "c9ae31c89732230b",
+  "name" : "test_fee_duration_dropdown_select_last_option",
+  "fullName" : "test_calculator#test_fee_duration_dropdown_select_last_option",
+  "historyId" : "0a1720c7cd299a0989da64342035d56e",
+  "time" : {
+    "start" : 1589151446665,
+    "stop" : 1589151450510,
+    "duration" : 3845
+  },
+  "description" : "Load the page and verify the funcionality of the duration dropdown\n    on the fee form. Last option should be 20 years",
+  "descriptionHtml" : "<p>Load the page and verify the funcionality of the duration dropdown\non the fee form. Last option should be 20 years</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589151444560,
+      "stop" : 1589151446663,
+      "duration" : 2103
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Load the page and verify the funcionality of the duration dropdown\n    on the fee form. Last option should be 20 years",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c36d978c45388600",
+      "name" : "stdout",
+      "source" : "c36d978c45388600.txt",
+      "type" : "text/plain",
+      "size" : 10
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1589151450511,
+      "stop" : 1589151450610,
+      "duration" : 99
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "host",
+    "value" : "C02P5EGZG3QC"
+  }, {
+    "name" : "thread",
+    "value" : "61105-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9ae31c89732230b.json",
+  "parameterValues" : [ ]
+}
